@@ -8,7 +8,7 @@ public class LibrarySystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LibrarySystemApplication.class, args);
-		System.out.println("************LibrarySystemApplication Successfully************");
+		System.out.println("************Application Start Successfully************");
 	}
 
 }
